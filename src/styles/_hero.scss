@@ -1,0 +1,15 @@
+.hero {
+    padding-top: 10px;
+    padding-bottom: 400px;
+    background-image: url(../images/1330710.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    max-height: 100px;
+
+
+    &__logo {
+        margin: 0 auto;
+        height: 220px;
+        display: block;
+    }
+}
